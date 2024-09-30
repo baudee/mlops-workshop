@@ -18,3 +18,7 @@ data/prepared/
 evaluation
 model
 .idea/
+
+## DVC
+
+# DVC will add new files after this line

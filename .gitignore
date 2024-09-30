@@ -1,0 +1,19 @@
+## Jupyter Notebook
+.ipynb_checkpoints/
+
+## macOS
+.DS_Store
+
+## Python
+
+# Environments
+.venv
+/venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+/data
+/evaluation
+/model
+.idea/

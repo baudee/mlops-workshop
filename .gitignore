@@ -13,7 +13,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
-/data
-/evaluation
-/model
+data/raw/
+data/prepared/
+evaluation
+model
 .idea/

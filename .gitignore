@@ -4,6 +4,9 @@
 ## macOS
 .DS_Store
 
+##
+.idea/
+
 ## Python
 
 # Environments
@@ -13,12 +16,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
-data/raw/
-data/prepared/
-evaluation
-model
-.idea/
-
 ## DVC
 
+# DVC plots
+dvc_plots
+
 # DVC will add new files after this line
+/model
